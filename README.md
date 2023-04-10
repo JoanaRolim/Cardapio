@@ -1,6 +1,6 @@
 # Api Menu
 
-Construção de uma API com CRUD para gerenciar um cardapio online. Isso foi realizado utilizando o banco de dados MongoDB através do framework do Mongoose.
+Construção de uma API com CRUD para gerenciar um cardapio online. Isso foi realizado utilizando o banco de dados MongoDB através do framework Mongoose.
 
 ## Tecnologias usadas
 
